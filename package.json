@@ -9,6 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.49.1",
     "dayjs": "^1.11.13",
     "expo": "~52.0.37",
     "expo-status-bar": "~2.0.1",
